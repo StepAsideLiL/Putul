@@ -30,7 +30,7 @@ npm run dev
 #### Note:
 
 - You have to change the fetch url to localhost
-- Have firebase web app api keys and put them in a .env.local file and name them as firebase.config.js.
+- Have firebase web app api keys and put them in a `.env.local` file and name them as in `firebase.config.js`.
 
 ### For server (or back end) side
 
